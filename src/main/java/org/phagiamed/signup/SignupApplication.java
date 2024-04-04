@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SignupApplication {
-//comment test
+//comment test 1
 	public static void main(String[] args) {
 		SpringApplication.run(SignupApplication.class, args);
 	}
